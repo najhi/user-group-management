@@ -11,7 +11,7 @@ This project demonstrates a basic User-Group management system using Spring Boot
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/najhi/Paraminfo.git
+   git clone https://github.com/najhi/user-group-management.git
    cd user-group-management
 
 2. Update database configuration in `src/main/resources/application.yml`.
